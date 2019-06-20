@@ -8,6 +8,10 @@ import org.quartz.SchedulerFactory;
 import org.quartz.impl.StdSchedulerFactory;
 import org.springframework.stereotype.Service;
 
+/***
+ * @author wangyh
+ * @date 2019/06/20
+ */
 @Service
 public class QuartzServiceImpl implements IQuartzService {
 
